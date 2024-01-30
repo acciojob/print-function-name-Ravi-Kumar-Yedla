@@ -4,7 +4,7 @@
 // }
 // functionName();
  function functionName(){
- alert("functionName")
+ alert("function name:functionName")
  
  }
 	 function();
